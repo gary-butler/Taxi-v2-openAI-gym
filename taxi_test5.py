@@ -40,4 +40,3 @@ iters = i + 1
 
 print("Value Iteration")
 print("Iterations: ", iters)
-print("Reward: ", reward)
